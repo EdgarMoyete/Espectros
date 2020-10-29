@@ -1,6 +1,6 @@
 # Espectros
 Espectrogramas con STFT y escalogramas con CWT
-### BCI Competition IV dataset 2a, BCI Competition IV dataset 2b, BCI Competition II datatset III y Mental Calculation
+### Rrepresentaciones EEG de BCI Competition IV dataset 2a, BCI Competition IV dataset 2b, BCI Competition II datatset III y Mental Calculation
 * `STFT_Img_iv_2a.ipynb`
 * `STFT_Img_iv_2b.ipynb`
 * `STFT_Img_ii_iii.ipynb`
@@ -19,4 +19,4 @@ Espectrogramas con STFT y escalogramas con CWT
 * `EspectrogramaSTFTEEG.ipynb`
 
 ### Grafica de canales de EEG
-* `GraficarEEG.ipynb 
+* `GraficarEEG.ipynb`
